@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    border: 1px dashed #000000;
+    margin: 31px auto;
+    width: 620px;
+    height: 541px;
+    font-family: Arial;
+    font-weight: 700;
+    font-style: normal;
+    padding: 15px 13px 15px 15px ;
+}
+
+.pagination a {
+    width: 120px;
+    height: 30px;
+    /* margin-bottom: 15px; */
+    text-decoration: none;
+    background-color:  #708090;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+.pagehome  {
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 6px 38px 6px 37px;
+}
+
+.pageabout {
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 6px 35px 6px 38px;
+    margin-left: 15px;
+}
+
+.pagecontact {
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 6px 28px 6px 32px;
+    margin-left: 15px;
+
+}
+
+.heading {
+    width: 590px;
+    height: 90px;
+    margin-top: 15px;
+    margin-bottom: 17px;
+    background:  #F5F5F5;
+}
+
+.headline {
+    width: 296px;
+    height: 23px;
+    margin-top: 15px;
+    margin-left: 13px;
+    font-size: 32px;
+}
+
+.subtitle {
+    margin-left: 13px;
+    margin-bottom: 15px;
+    margin-top: 10px ;
+    font-size: 18px;
+}
+
+.pic {
+    width: 120px;
+    height: 150px;
+    border: 1px dashed #000000;
+    padding: 9px 9px 11px 10px;
+    margin-bottom: 15px;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.desctwo {
+    margin-top: 15px;
+}
+
+.footer {
+    width: 590;
+    height: 68px;
+    margin-top: 16.15px;
+    margin-bottom: 15px;
+    border: 1px dashed #000000;
+
+}
+
+.caption {
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 13.85px;
+    margin-bottom: 10px;
+}
+
+.linkone {
+    font-size: 14px;
+    margin-left: 10px;
+    color: #708090;
+    margin-right: 19px;
+    margin-bottom: 15px;
+}
+
+.linktwo {
+    font-size: 14px;
+    color: #708090;
+    margin-right: 19px;
+    margin-bottom: 15px;
+}
+.linkthree {
+    font-size: 14px;
+    color: #708090;
+    margin-bottom: 15px;
+
+}
